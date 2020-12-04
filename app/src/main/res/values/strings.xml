@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">三十三所巡礼</string>
+    <string name="textViewTempleInfomation">寺院情報を入力してください。</string>
+    <string name="textViewPrincipalImage">本尊名:</string>
+    <string name="textViewReligion">宗旨:</string>
+    <string name="textViewAddress">所在地:</string>
+    <string name="textViewURL">URL:</string>
+    <string name="editTextMultiLine_Impression">感想:</string>
+    <string name="button_Save">保存</string>
+</resources>
